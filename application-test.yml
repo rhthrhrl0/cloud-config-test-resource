@@ -2,4 +2,4 @@ spring:
   datasource:
     uri: myEnvironment
     username: root
-    password: password
+    password: password22
